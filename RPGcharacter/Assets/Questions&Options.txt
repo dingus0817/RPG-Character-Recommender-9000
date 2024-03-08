@@ -1,0 +1,44 @@
+1. Which of the following do you think describes you?
+    a. patient 
+    b. selfless 
+    c. witty 
+    d. ambitious 
+    e. insightful
+    f. diligent
+2. Which of the following do you think describes you?
+    a. lazy
+    b. irritable 
+    c. naive 
+    d. impetuous 
+    e. petty 
+    f. boastful
+3. Which of the following do you think describes you?
+    a. independent 
+    b. observant 
+    c. faithful 
+    d. sincere  
+    e. brave
+    f. virtuous
+4. Which of the following would you choose?
+    a. dog 
+    b. horse 
+    c. ship 
+    d. cat 
+    e. sheep 
+    f. owl
+5. Which of the following would you rather do?
+    a. explore the unknown 
+    b. party at the local tavern with friends 
+    c. enjoy some alone time at your favourite place 
+    d. help around the community (helping NPCs)
+    e. training or learning something new
+6. Which of the following do you think describes you?
+    a. athletic  
+    b. dexterous 
+    c. creative 
+    d. knowledgeable 
+7. Which of the following is your style of weapon?
+    a. close range 
+    b. long range 
+    c. brain 
+    d. none; i’m a pacifist

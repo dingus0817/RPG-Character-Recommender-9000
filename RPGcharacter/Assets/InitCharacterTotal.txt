@@ -1,0 +1,16 @@
+knight 0
+ranger 0
+shepherd 0
+bard 0
+merchant 0
+herbalist 0
+sailor 0
+inventor 0
+royalty 0
+rogue 0
+philosopher 0
+warrior 0
+prophet 0
+detective 0
+alchemist 0
+tavernKeeper 0

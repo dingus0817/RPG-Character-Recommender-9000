@@ -1,0 +1,4 @@
+knight;ranger;sailor;royalty;rogue;warrior
+ranger;shepherd;tavernKeeper
+inventor;royalty;philosopher;detective;alchemist;tavernKeeper
+bard;merchant;herbalist;prophet
